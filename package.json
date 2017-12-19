@@ -92,5 +92,8 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "homepage": "https://husky-parul.github.io/burger-builder"
+  "homepage": "https://husky-parul.github.io/burger-builder",
+  "devDependencies": {
+    "gh-pages": "^1.1.0"
+  }
 }
